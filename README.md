@@ -17,3 +17,5 @@ Structure，然后配置 JDK 版本，建议使用 JDK17
 （3）在前端目录下打开终端，运行 npm i 拉取依赖
 （4）在终端下运行 npm run serve 命令，或者在 package.json 中手动点击运行 serve
 命令
+![image](https://github.com/user-attachments/assets/da5a6b5d-8ce2-4bc0-a319-71937d082229)
+![image](https://github.com/user-attachments/assets/88e277c6-0219-448a-8fee-a6046cbdd233)
